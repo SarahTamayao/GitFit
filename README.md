@@ -50,18 +50,20 @@ Our idea is an exercise app that allows users to make an account to browse throu
 
 ### 3. Navigation
 
-**Tab Navigation** (Tab to Screen)
+Tab Navigation (Tab to Screen)
 
-* My Workouts
-* Search
-* Weekly Schedule
+* [fill out your first tab]
+* [fill out your second tab]
+* [fill out your third tab]
 
-**Flow Navigation** (Screen to Screen)
+Flow Navigation (Screen to Screen)
 
-* Login/Sign up
-   * Directs you to MyWorkout which will have the tab navigation
-* MySchedule
-   * Pressing Edit button allows you to edit your schedule
+* [list first screen here]
+   * [list screen navigation here]
+   * …
+* [list second screen here]
+   * [list screen navigation here]
+   * …
 
 ## Wireframes
 <img src="https://imgur.com/lnr2MNp.jpg" width=600>
